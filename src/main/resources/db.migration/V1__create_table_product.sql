@@ -1,6 +1,0 @@
-CREATE TABLE product(
-  id  TEXT PRIMARY KEY UNIQUE NOT NULL,
-  title TEXT NOT NULL ,
-  price INT NOT NULL ,
-  image TEXT
-);
